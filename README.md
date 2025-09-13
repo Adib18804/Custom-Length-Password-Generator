@@ -34,7 +34,7 @@ A simple, yet effective, command-line password generator built in Python. This t
 
 The core logic is straightforward:
 
-python
+```python
 import random
 
 # Define the character set to use for generating passwords
